@@ -11,3 +11,5 @@ int main(){
         cout<<cost;
     }
 }
+
+//tera vaiii tera vaiii
